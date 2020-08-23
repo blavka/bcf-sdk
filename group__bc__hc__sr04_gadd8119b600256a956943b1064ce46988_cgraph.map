@@ -1,0 +1,10 @@
+<map id="bc_hc_sr04_init" name="bc_hc_sr04_init">
+<area shape="rect" id="node2" href="$group__bc__scheduler.html#gac6e2fa9155567fb1f32a8b8b563e2f30" title="Register task in scheduler. " alt="" coords="177,5,327,32"/>
+<area shape="rect" id="node3" href="$group__bc__gpio.html#ga06db16c5cd7f6ffff7e297970814221d" title="Initialize GPIO channel. " alt="" coords="207,56,297,83"/>
+<area shape="rect" id="node6" href="$group__bc__gpio.html#ga63a3ad86dfef88c7c940a2a34945d853" title="Set mode of operation for GPIO channel. " alt="" coords="187,107,317,133"/>
+<area shape="rect" id="node7" href="$group__bc__gpio.html#ga1a15056524308ed212dada9d80bbfd81" title="Set output state for GPIO channel. " alt="" coords="185,157,319,184"/>
+<area shape="rect" id="node8" href="$group__bc__timer.html#gac979f0bcee85c8c5627413cd47e7dd97" title="Register timer IRQ handler. " alt="" coords="169,208,335,235"/>
+<area shape="rect" id="node9" href="$group__bc__timer.html#ga878fa66377415b0e9436c54369637148" title="Initialize timer. " alt="" coords="204,259,300,285"/>
+<area shape="rect" id="node4" href="$group__bc__irq.html#ga83398e8b1c443f7bf1b1980959d3cc63" title="Disable interrupt requests globally (call can be nested) " alt="" coords="385,56,490,83"/>
+<area shape="rect" id="node5" href="$group__bc__irq.html#ga6bd1e6c1589c97558d14e8f3d648e656" title="Enable interrupt requests globally (call can be nested) " alt="" coords="386,107,489,133"/>
+</map>
